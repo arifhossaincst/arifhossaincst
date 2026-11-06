@@ -1,6 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:00d4ff,50:7b2ff7&height=320&section=header&text=MD.%20ARIF%20HOSSAIN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20PYTHON%20%7C%20SQL%20%7C%20POWER%20BI&descAlignY=60&descSize=20)
 <p align="center">
-  <img src="arif.jpg.jpeg" width="170" height="170" style="border-radius:50%; border: 4px solid #00d4ff;" />
+ <img src="arif.jpg.jpeg" width="350" style="border-radius:15px; border: 4px solid #00d4ff;" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arifhossaincst&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
