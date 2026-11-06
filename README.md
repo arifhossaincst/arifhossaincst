@@ -126,6 +126,31 @@
 | 🏆 Final Goal | Job as Data Analyst |
 
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7b2ff7&height=6&section=header" width="100%" />
+
+## 😂 Auto Changing Jokes - Programming, Data & Computer
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=00D4FF&center=true&width=700&lines=Why+do+programmers+prefer+dark+mode%3F;Because+light+attracts+bugs!;Why+did+the+data+analyst+go+broke%3F;Because+he+used+up+all+his+cache!;There+are+only+10+types+of+people.;Those+who+understand+binary.;Why+do+Java+developers+wear+glasses%3F;Because+they+don't+C%23!;Data+never+lies...;But+my+Excel+formula+does!;Why+did+the+computer+catch+a+cold%3F;Because+it+left+its+Windows+open!" />
+</p>
+
+<p align="center">
+  <i>Wait 3 Seconds - Joke Will Change Automatically 😂</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7b2ff7&height=6&section=header" width="100%" />
+
+## 💡 My Coding Philosophy
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&width=600&lines=First+Solve+The+Problem.;Then+Write+The+Code.;Data+Never+Lies.;Keep+Learning+Every+Day." />
+</p>
+
+<p align="center">
+  <b>"I Don't Just Analyze Data, I Tell Stories With Data."</b><br>
+    - MD. ARIF HOSSAIN
+</p>
 ## 🤝 Let's Connect With Me
 
 <p align="center">
