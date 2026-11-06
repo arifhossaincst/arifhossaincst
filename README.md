@@ -179,17 +179,49 @@
 </p>
 
 ## 📜 My Certificates & Achievements
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7b2ff7&height=120&section=header&text=My%20Certificates&fontSize=50&fontColor=ffffff" width="100%" />
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=2000&color=FF00FF&center=true&width=900&lines=All+Data+Analytics+Skills+Completed+in+2026!;10%2B+Certificates+Achieved!;Ready+For+Job+%26+Internship!" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Completed-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Completed-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-Completed-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-Completed-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-Completed-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Cleaning-Completed-00C853?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-Completed-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-Completed-9C27B0?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MS_Office-Completed-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/Year-2026-FF00FF?style=for-the-badge&logo=calendar&logoColor=white" />
+</p>
+
+### 📊 My Certificates & Achievements - Data Analytics
 
 | Certificate | Status | Year |
 | :---: | :---: | :---: |
-| 📊 *Excel for Data Analysis* | ✅ Completed | 2025 |
-| 🗄️ *SQL Basics* | 🔥 Learning Now | 2026 |
-| 🐍 *Python for Data* | 🎯 Next Target | 2026 |
-| 📈 *Power BI Dashboard* | 🎯 Next Target | 2026 |
-
-</p>
+| 📊 *Microsoft Excel - Advanced* | ✅ Completed | 2026 |
+| 🗄️ *SQL - Database & Query* | ✅ Completed | 2026 |
+| 🐍 *Python for Data Analysis* | ✅ Completed | 2026 |
+| 📈 *Power BI - Dashboard & Report* | ✅ Completed | 2026 |
+| 📉 *Tableau - Data Visualization* | ✅ Completed | 2026 |
+| 🧮 *Statistics for Data Analysis* | ✅ Completed | 2026 |
+| 🧹 *Data Cleaning & Preparation* | ✅ Completed | 2026 |
+| 📋 *Google Sheets for Data* | ✅ Completed | 2026 |
+| 📊 *Data Visualization & Storytelling* | ✅ Completed | 2026 |
+| 💻 *Computer Fundamentals & MS Office* | ✅ Completed | 2026 |
 
 ## 🌍 Visitors From Around The World
 
