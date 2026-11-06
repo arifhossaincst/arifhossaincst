@@ -170,6 +170,37 @@
   <b>"I Don't Just Analyze Data, I Tell Stories With Data."</b><br>
     - MD. ARIF HOSSAIN
 </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7b2ff7&height=6&section=header" width="100%" />
+
+## 🧊 3D Contribution - My Work in 3D
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arifhossaincst/arifhossaincst/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
+
+## 📜 My Certificates & Achievements
+
+<p align="center">
+
+| Certificate | Status | Year |
+| :---: | :---: | :---: |
+| 📊 *Excel for Data Analysis* | ✅ Completed | 2025 |
+| 🗄️ *SQL Basics* | 🔥 Learning Now | 2026 |
+| 🐍 *Python for Data* | 🎯 Next Target | 2026 |
+| 📈 *Power BI Dashboard* | 🎯 Next Target | 2026 |
+
+</p>
+
+## 🌍 Visitors From Around The World
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=arifhossaincst&icon=5&color=0" />
+</p>
+
+<p align="center">
+  <b>Thanks For Visiting My Profile! ❤️</b><br>
+  <i>From Dhaka, Bangladesh To The Whole World 🌍</i>
+</p>
 ## 🤝 Let's Connect With Me
 
 <p align="center">
