@@ -150,7 +150,7 @@
 ## 💡 My Coding Philosophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFD700&center=true&width=800&lines=First+Solve+The+Problem.;Then+Write+The+Code.;Data+Never+Lies.;Keep+Learning+Every+Day." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&pause=1000&color=FFD700&center=true&width=800&lines=First+Solve+The+Problem.;Then+Write+The+Code.;Data+Never+Lies.;Keep+Learning+Every+Day." />
 </p>
 
 <p align="center">
@@ -163,7 +163,7 @@
 ## 💡 My Coding Philosophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&width=600&lines=First+Solve+The+Problem.;Then+Write+The+Code.;Data+Never+Lies.;Keep+Learning+Every+Day." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00D4FF&center=true&width=600&lines=First+Solve+The+Problem.;Then+Write+The+Code.;Data+Never+Lies.;Keep+Learning+Every+Day." />
 </p>
 
 <p align="center">
