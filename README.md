@@ -245,3 +245,26 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7b2ff7&height=130&section=footer&text=Thanks+For+Visiting!&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
+
+---
+
+### 👋 Hi, I'm Md. Arif Hossain
+
+*Aspiring Data Analyst from Dhaka, Bangladesh* 🇧🇩
+
+I love to find stories hidden inside data and present them with beautiful visualizations.
+
+### 🚀 What I Do
+- 📊 Data Analysis: Cleaning, analyzing and finding insights from data
+- 📈 Data Visualization: Making beautiful charts & dashboards
+- 🐍 Currently Learning: Python, Pandas, NumPy, Matplotlib
+
+### 🛠️ Skills
+Python SQL Excel Power BI Pandas Data Visualization Problem Solving
+
+### 🎯 My Goal
+To become a professional Data Analyst and help businesses make data-driven decisions.
+
+### 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/md-arif-hossain-470b38440/
+- 📧 Email: mdarifhossain1472b@gmail.com
