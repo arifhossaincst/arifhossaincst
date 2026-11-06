@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:00d4ff,50:7b2ff7&height=320&section=header&text=MD.%20ARIF%20HOSSAIN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20PYTHON%20%7C%20SQL%20%7C%20POWER%20BI&descAlignY=60&descSize=20)
+ ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:00d4ff,50:7b2ff7&height=320&section=header&text=MD.%20ARIF%20HOSSAIN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20PYTHON%20%7C%20SQL%20%7C%20POWER%20BI&descAlignY=60&descSize=20)
 <p align="center">
  <img src="arif.jpg.jpeg" width="350" style="border-radius:15px; border: 4px solid #00d4ff;" />
 </p>
@@ -85,6 +85,47 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7b2ff7&height=6&section=header" width="100%" />
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7b2ff7&height=6&section=header" width="100%" />
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arifhossaincst&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/arifhossaincst?label=Followers&style=for-the-badge&color=7b2ff7" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7b2ff7&height=6&section=header" width="100%" />
+
+## 🚀 My Projects
+
+<p align="center">
+  <a href="https://github.com/arifhossaincst"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arifhossaincst&repo=arifhossaincst&theme=tokyonight&hide_border=false&bg_color=0a2540&title_color=00d4ff&text_color=ffffff" width="48%" /></a>
+</p>
+
+> 💡 Coming Soon: Sales Data Analysis with Excel + Power BI Dashboard - Stay Tuned!
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7b2ff7&height=6&section=header" width="100%" />
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arifhossaincst/arifhossaincst/output/github-contribution-grid-snake.svg" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7b2ff7&height=6&section=header" width="100%" />
+
+## 🎯 My Future Goal - 2026 Roadmap
+
+<p align="center">
+
+| Month | What I Will Learn |
+| :---: | :---: |
+| ✅ Now | Excel, SQL Basics |
+| 🔥 Next | Python + Pandas |
+| 🚀 After | Power BI Dashboard |
+| 🏆 Final Goal | Job as Data Analyst |
+
+</p>
 ## 🤝 Let's Connect With Me
 
 <p align="center">
